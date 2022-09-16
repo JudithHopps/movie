@@ -10,7 +10,7 @@ function Navigation() {
     <Link to="/">
     <div className="nav">
       
-      <img src='./mainyouflex.JPG' width= "200px" alt="Home" />
+    
       
     </div></Link>
   );
