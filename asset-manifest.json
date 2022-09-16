@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/JudithHopps/movie.git/static/css/main.80ededaa.css",
-    "main.js": "/JudithHopps/movie.git/static/js/main.00299d8f.js",
+    "main.css": "/JudithHopps/movie.git/static/css/main.e0dee46f.css",
+    "main.js": "/JudithHopps/movie.git/static/js/main.3872d7da.js",
     "static/js/787.e253fc0a.chunk.js": "/JudithHopps/movie.git/static/js/787.e253fc0a.chunk.js",
-    "static/media/back.jpg": "/JudithHopps/movie.git/static/media/back.5e7c7f734426dce23ee0.jpg",
+    "static/media/back.jpg": "/JudithHopps/movie.git/static/media/back.6ff64e76ea62d9888983.jpg",
     "index.html": "/JudithHopps/movie.git/index.html",
-    "main.80ededaa.css.map": "/JudithHopps/movie.git/static/css/main.80ededaa.css.map",
-    "main.00299d8f.js.map": "/JudithHopps/movie.git/static/js/main.00299d8f.js.map",
+    "main.e0dee46f.css.map": "/JudithHopps/movie.git/static/css/main.e0dee46f.css.map",
+    "main.3872d7da.js.map": "/JudithHopps/movie.git/static/js/main.3872d7da.js.map",
     "787.e253fc0a.chunk.js.map": "/JudithHopps/movie.git/static/js/787.e253fc0a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.80ededaa.css",
-    "static/js/main.00299d8f.js"
+    "static/css/main.e0dee46f.css",
+    "static/js/main.3872d7da.js"
   ]
 }
