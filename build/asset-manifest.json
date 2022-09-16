@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/JudithHopps/movie.git/static/css/main.e0dee46f.css",
+    "main.js": "/JudithHopps/movie.git/static/js/main.3872d7da.js",
+    "static/js/787.e253fc0a.chunk.js": "/JudithHopps/movie.git/static/js/787.e253fc0a.chunk.js",
+    "static/media/back.jpg": "/JudithHopps/movie.git/static/media/back.6ff64e76ea62d9888983.jpg",
+    "index.html": "/JudithHopps/movie.git/index.html",
+    "main.e0dee46f.css.map": "/JudithHopps/movie.git/static/css/main.e0dee46f.css.map",
+    "main.3872d7da.js.map": "/JudithHopps/movie.git/static/js/main.3872d7da.js.map",
+    "787.e253fc0a.chunk.js.map": "/JudithHopps/movie.git/static/js/787.e253fc0a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e0dee46f.css",
+    "static/js/main.3872d7da.js"
+  ]
+}

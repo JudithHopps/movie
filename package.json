@@ -1,5 +1,5 @@
 {
-  "name": "movie",
+  "name": "movie_correct",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -39,5 +39,5 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://github.com/JudithHopps/movie.git"
+  "homepage": "https://github.com/JudithHopps/movie_correct.git"
 }
