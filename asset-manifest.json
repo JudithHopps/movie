@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/JudithHopps/movie_correct.git/static/css/main.01928dbf.css",
-    "main.js": "/JudithHopps/movie_correct.git/static/js/main.4c22defe.js",
-    "static/js/787.7c785aa2.chunk.js": "/JudithHopps/movie_correct.git/static/js/787.7c785aa2.chunk.js",
-    "static/media/back.jpg": "/JudithHopps/movie_correct.git/static/media/back.6ff64e76ea62d9888983.jpg",
-    "index.html": "/JudithHopps/movie_correct.git/index.html",
-    "main.01928dbf.css.map": "/JudithHopps/movie_correct.git/static/css/main.01928dbf.css.map",
-    "main.4c22defe.js.map": "/JudithHopps/movie_correct.git/static/js/main.4c22defe.js.map",
-    "787.7c785aa2.chunk.js.map": "/JudithHopps/movie_correct.git/static/js/787.7c785aa2.chunk.js.map"
+    "main.css": "/movie_correct/static/css/main.272963da.css",
+    "main.js": "/movie_correct/static/js/main.882dc94b.js",
+    "static/js/787.7c785aa2.chunk.js": "/movie_correct/static/js/787.7c785aa2.chunk.js",
+    "static/media/back.jpg": "/movie_correct/static/media/back.6ff64e76ea62d9888983.jpg",
+    "index.html": "/movie_correct/index.html",
+    "main.272963da.css.map": "/movie_correct/static/css/main.272963da.css.map",
+    "main.882dc94b.js.map": "/movie_correct/static/js/main.882dc94b.js.map",
+    "787.7c785aa2.chunk.js.map": "/movie_correct/static/js/787.7c785aa2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.01928dbf.css",
-    "static/js/main.4c22defe.js"
+    "static/css/main.272963da.css",
+    "static/js/main.882dc94b.js"
   ]
 }
